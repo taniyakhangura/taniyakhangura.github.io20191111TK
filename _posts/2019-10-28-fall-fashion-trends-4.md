@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fall Fashion Trends
-author: dan_urbanowicz
+author: taniyakhangura
 date: '2019-10-28 20:58:57'
 intro_paragraph: |-
   Hello fashion folk!
